@@ -1,0 +1,8 @@
+{
+  "name": "tileviewer",
+  "version": "1.0.0",
+  "description": "Views tiles",
+  "main": "index.js",
+  "author": "Mark Asp",
+  "license": "MIT"
+}
