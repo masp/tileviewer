@@ -4,5 +4,12 @@
   "description": "Views tiles",
   "main": "index.js",
   "author": "Mark Asp",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masp/tileviewer"
+  },
+  "dependencies": {
+    "nodejs": "0.0.0"
+  }
 }
